@@ -1,0 +1,63 @@
+body{
+    color: green;
+    background: linear-gradient(225deg, coral,gold, lightpink, lightpink, lightskyblue, lightskyblue, lightskyblue, lightskyblue, lightskyblue, lightskyblue, lightskyblue, lightskyblue, lightpink, lightpink, gold, coral);
+    font-family: franklin gothic medium;
+    padding: 4px;
+}
+
+.me{
+    width: 33%;
+    border-radius: 25px;
+    border: solid 5px white;
+    float: right;
+    margin: 0 0 0 10px;
+    padding: 5px;
+    background-color: lightpink;
+    }
+
+details{
+    background-color: lightpink;
+    color: white;
+    padding: 5px;
+    border: solid 5px white;
+    border-radius: 20px;
+    font-style: italic;
+    font-size: 110%;
+    clear: right;
+    float: right;
+    width: 33%;
+    margin: 5px 0 5px 10px;
+}
+
+.heading {
+    color: green;
+    background: linear-gradient(135deg, coral, gold, lightpink, lightpink, lightskyblue, lightpink, lightpink, gold, coral);
+    font-family: verdana;
+    font-weight: 900;
+    font-size: 250%;
+    padding: 25px;
+    text-align: center;
+    border: solid 5px white;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 0 0 0 0;
+}
+
+.headingsss {
+    color: green;
+    background-color: lightpink;
+    font-family: verdana;
+    font-weight: bolder;
+    font-size: 200%;
+    padding: 17.5px;
+    text-align: center;
+    border: solid 5px white;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.para {
+    font-size: 115%;
+}
